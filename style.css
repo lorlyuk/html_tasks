@@ -1,0 +1,28 @@
+img {
+   float: left;
+  width: 15%;
+  margin: 15px;
+  padding:15px;
+}
+h1 {
+  text-align: center;
+  }
+  p {
+    margin: 15px;
+  }
+table {
+border-collapse: collapse; 
+border: 1px solid grey; 
+}
+td {
+border: 1px solid grey;
+padding: 10px 15px;
+text-align: left;
+}
+.center {
+  text-align: center;
+   margin: 25px;
+}
+.rik {
+  width: 10%;
+}
