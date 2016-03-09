@@ -1,0 +1,96 @@
+body {
+  background: #e0e8e5;
+  color: #010a3d;
+  }
+
+img {
+  float: left;
+  width: 28%;
+  margin: 5px;
+  padding:10px;
+  border-radius: 25px;
+ 
+}
+h1 {
+  text-align: center;
+  color:#235434;
+  }
+  p {
+    margin: 15px;
+  }
+table {
+border-collapse: collapse; 
+border: 1px solid grey; 
+}
+td {
+border: 1px solid grey;
+padding: 10px 15px;
+text-align: left;
+}
+.center {
+  text-align: center;
+   margin: 25px;
+}
+.rik {
+  width: 10%;
+}
+.job {
+  width: 15%;
+}
+
+.personal {
+  background-color: #d6e4ba;
+  border-radius: 4px;
+  width: 60%;
+  margin-left: 30%;
+  padding: 5px;
+}
+.skills {
+  background-color: #d6e4ba;
+  border-radius: 4px;
+  width: 60%;
+  margin-left: 30%;
+  padding: 5px;
+}
+.myself {
+  background-color: #bbdb93;
+  border-radius: 4px;
+  width: 80%;
+  margin: 0px auto;
+}
+.education {
+  background-color: #d6e4ba;
+  border-radius: 4px;
+  width: 95%;
+  margin: 0px auto;
+  margin-top: 5%;
+  padding: 10px;
+  }
+ .experience {
+  background-color: #d6e4ba;
+  border-radius: 4px;
+  width: 100%;
+  margin: 0px auto;
+   }
+  .avtob {
+  background-color: #d6e4ba;
+  border-radius: 25px;
+  width: 90%;
+  margin: 0px auto;
+  padding: 15px;
+  }
+  .zmist {
+  background-color: #d6e4ba;
+  border-radius: 4px;
+  width: 45%;
+  margin-left: 30%;
+  padding: 5px;
+  margin-bottom: 3%
+   }
+div div {
+    text-align: center;
+}
+
+
+
+
