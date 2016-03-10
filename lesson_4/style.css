@@ -2,34 +2,32 @@ body {
   background: #e0e8e5;
   color: #010a3d;
   }
-
 img {
   float: left;
   width: 28%;
   margin: 5px;
   padding:10px;
   border-radius: 25px;
- 
-}
+ }
 h1 {
   text-align: center;
   color:#235434;
   }
-  p {
+p {
     margin: 15px;
   }
 table {
-border-collapse: collapse; 
-border: 1px solid grey; 
+  border-collapse: collapse; 
+  border: 1px solid grey; 
 }
 td {
-border: 1px solid grey;
-padding: 10px 15px;
-text-align: left;
+  border: 1px solid grey;
+  padding: 10px 15px;
+  text-align: left;
 }
 .center {
   text-align: center;
-   margin: 25px;
+  margin: 25px;
 }
 .rik {
   width: 10%;
@@ -37,7 +35,6 @@ text-align: left;
 .job {
   width: 15%;
 }
-
 .personal {
   background-color: #d6e4ba;
   border-radius: 4px;
@@ -65,32 +62,28 @@ text-align: left;
   margin: 0px auto;
   margin-top: 5%;
   padding: 10px;
-  }
- .experience {
+ }
+.experience {
   background-color: #d6e4ba;
   border-radius: 4px;
   width: 100%;
   margin: 0px auto;
-   }
-  .avtob {
+  }
+.avtob {
   background-color: #d6e4ba;
   border-radius: 25px;
   width: 90%;
   margin: 0px auto;
   padding: 15px;
-  }
-  .zmist {
+}
+.zmist {
   background-color: #d6e4ba;
   border-radius: 4px;
   width: 45%;
   margin-left: 30%;
   padding: 5px;
   margin-bottom: 3%
-   }
+ }
 div div {
     text-align: center;
 }
-
-
-
-
