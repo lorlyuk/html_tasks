@@ -16,7 +16,7 @@ h1 {
 p {
   margin: 15px;
 } 
- table {
+table {
   border-collapse: collapse; 
   border: 1px solid grey; 
 }
@@ -87,5 +87,3 @@ td {
 div div {
   text-align: center;
 }
-
-
