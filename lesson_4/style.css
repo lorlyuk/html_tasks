@@ -2,7 +2,6 @@ body {
   background: #e0e8e5;
   color: #010a3d;
   }
-
 img {
   float: left;
   width: 28%;
@@ -15,21 +14,21 @@ h1 {
   text-align: center;
   color:#235434;
   }
-  p {
-    margin: 15px;
+p {
+   margin: 15px;
   }
 table {
-border-collapse: collapse; 
-border: 1px solid grey; 
+  border-collapse: collapse; 
+  border: 1px solid grey; 
 }
 td {
-border: 1px solid grey;
-padding: 10px 15px;
-text-align: left;
+  border: 1px solid grey;
+  padding: 10px 15px;
+  text-align: left;
 }
 .center {
   text-align: center;
-   margin: 25px;
+  margin: 25px;
 }
 .rik {
   width: 10%;
@@ -37,7 +36,6 @@ text-align: left;
 .job {
   width: 15%;
 }
-
 .personal {
   background-color: #d6e4ba;
   border-radius: 4px;
@@ -88,9 +86,5 @@ text-align: left;
   margin-bottom: 3%
    }
 div div {
-    text-align: center;
+   text-align: center;
 }
-
-
-
-
